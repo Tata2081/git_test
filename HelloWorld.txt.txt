@@ -1,3 +1,4 @@
 print("Hello WOrd");
 print("Print taty");
 print("125555");'
+print("Hello my diar freands");
